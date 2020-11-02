@@ -19,7 +19,91 @@ $sec = "2";
         <h1>Curso PHP</h1>
         <h2>Indice dos exercícios</h2>
     </header>
-    <main class="principal">principal</main>
+    <main class="principal">
+        <div class="conteudo">
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+            <div>teste</div>
+
+        </div>
+    </main>
     <footer class="rodape">COD3R & ALUNOS © 2020</footer>
 </body>
 

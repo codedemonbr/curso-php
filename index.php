@@ -1,6 +1,6 @@
 <?php
 $page = $_SERVER['PHP_SELF'];
-$sec = "60";
+$sec = "2";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -20,7 +20,7 @@ $sec = "60";
         <h2>Indice dos exercícios</h2>
     </header>
     <main class="principal">principal</main>
-    <footer class="rodape">rodapeee</footer>
+    <footer class="rodape">COD3R & ALUNOS © 2020</footer>
 </body>
 
 </html>

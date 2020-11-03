@@ -1,6 +1,6 @@
 <?php
 $page = $_SERVER['PHP_SELF'];
-$sec = "60";
+$sec = "600";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -21,7 +21,8 @@ $sec = "60";
         <h2>Visualização do exercício</h2>
     </header>
     <nav class="navegacao">
-        <a href="#" class="verde">Sem formatação</a>
+        <!-- não esquecer do ponto antes da url. O ponto representa o diretorio atual' -->
+        <a href=<?= "./{$_GET['dir']}/{$_GET['file']}.php" ?> class="verde">Sem formatação</a>
         <a href="index.php" class="vermelho">Voltar</a>
     </nav>
     <main class="principal">
